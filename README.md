@@ -8,6 +8,8 @@ Hi there! I'm excited to share my music with you. Here, you'll find all my track
 2. Click on the .torrent file link to download it
 3. Open the file with your torrent client to start downloading the music
 
+You can download the .torrent files also from [PandaCD](https://pandacd.io/artist/1048-spxcepvnk/)
+
 ## Support My Work
 
 If you enjoy my music and want to support me, consider buying my tracks on [Bandcamp](https://spxcepvnk.bandcamp.com)! Your support means the world to me and helps me create more music.
