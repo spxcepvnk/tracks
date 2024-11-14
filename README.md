@@ -10,6 +10,10 @@ Hi there! I'm excited to share my music with you. Here, you'll find all my track
 
 You can download the .torrent files also from [PandaCD](https://pandacd.io/artist/1048-spxcepvnk/)
 
+## Direct Downloads (no .torrent files)
+
+If you're feeling lazy, you can download MP3 files directly from my [fidbak.audio](https://fidbak.audio/spxcepvnk/player/44b1436bdaf4/8461dfd485e7)
+
 ## Support My Work
 
 If you enjoy my music and want to support me, consider buying my tracks on [Bandcamp](https://spxcepvnk.bandcamp.com)! Your support means the world to me and helps me create more music.
