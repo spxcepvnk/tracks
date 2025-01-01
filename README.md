@@ -1,18 +1,20 @@
 # Download My Tunes for Free!
 
-Hi there! I'm excited to share my music with you. Here, you'll find all my tracks available for free download as .torrent files. Just click on the links, grab the files, and enjoy my tunes!
+Hi there! I'm excited to share my music with you. Here, you'll find all my tracks available for free download. Just click on the links, grab the files, and enjoy my tunes!
 
 ## How to Download
 
-1. Make sure you have a torrent client installed (like [qBittorrent](https://www.qbittorrent.org), [uTorrent](https://www.utorrent.com), etc.)
-2. Click on the .torrent file link to download it
-3. Open the file with your torrent client to start downloading the music
+Deprecated. I no longer have time to maintain torrent releases. See [Direct Download](https://github.com/spxcepvnk/tracks#direct-downloads-no-torrent-files) section.
 
-You can download the .torrent files also from [PandaCD](https://pandacd.io/artist/1048-spxcepvnk/)
+1. ~~Make sure you have a torrent client installed (like [qBittorrent](https://www.qbittorrent.org), [uTorrent](https://www.utorrent.com), etc.)~~
+2. ~~Click on the .torrent file link to download it~~
+3. ~~Open the file with your torrent client to start downloading the music~~
+
+~~You can download the .torrent files also from [PandaCD](https://pandacd.io/artist/1048-spxcepvnk/)~~
 
 ## Direct Downloads (no .torrent files)
 
-If you're feeling lazy, you can download MP3 files directly from my [fidbak.audio](https://fidbak.audio/spxcepvnk/player/44b1436bdaf4/8461dfd485e7)
+You can download MP3 files directly from my [fidbak.audio](https://fidbak.audio/spxcepvnk/player/44b1436bdaf4/8461dfd485e7)
 
 ## Support My Work
 
