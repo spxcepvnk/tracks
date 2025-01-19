@@ -4,17 +4,13 @@ Hi there! I'm excited to share my music with you. Here, you'll find all my track
 
 ## How to Download
 
-Deprecated. I no longer have time to maintain torrent releases. See [Direct Download](https://github.com/spxcepvnk/tracks#direct-downloads-no-torrent-files) section.
+Deprecated. I no longer have time to maintain torrent releases. See [Support My Work](https://github.com/spxcepvnk/tracks#support-my-work) section.
 
 1. ~~Make sure you have a torrent client installed (like [qBittorrent](https://www.qbittorrent.org), [uTorrent](https://www.utorrent.com), etc.)~~
 2. ~~Click on the .torrent file link to download it~~
 3. ~~Open the file with your torrent client to start downloading the music~~
 
 ~~You can download the .torrent files also from [PandaCD](https://pandacd.io/artist/1048-spxcepvnk/)~~
-
-## Direct Downloads (no .torrent files)
-
-You can download MP3 files directly from my [fidbak.audio](https://fidbak.audio/spxcepvnk/player/44b1436bdaf4/8461dfd485e7)
 
 ## Support My Work
 
